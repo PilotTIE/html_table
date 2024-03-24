@@ -1,0 +1,12 @@
+.mytext {
+  max-width: 800px;
+  text-align: center;
+  margin: auto;
+}
+.aligntable {
+  margin: auto;
+}
+th,td {
+  border: solid 1px rgb(0, 0, 0);
+}
+
